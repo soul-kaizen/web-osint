@@ -8,8 +8,6 @@
 
 - **[About](#about)**
   - [Screenshot](#screenshot)
-  - [Live Demo](#live-demo)
-  - [Mirror](#mirror)
   - [Features](#features)
 - **[Usage](#usage)**
   - [Deployment](#deployment)
@@ -19,11 +17,7 @@
     - [Option#4: Source](#deploying---option-4-from-source)
   - [Configuration Options](#configuring)
   - [Developer Setup](#developing)
-- **[Community](#community)**
-  - [Contributing](#contributing)
-  - [Bugs](#reporting-bugs)
-  - [Support](#supporting)
-- **[License](#license)**
+
 
 ---
 
