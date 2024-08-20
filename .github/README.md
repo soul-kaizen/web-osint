@@ -1,7 +1,8 @@
 <h1 align="center">Web-Check</h1>
 
-### Application Launch
--[Web Check for Android](https://github.com/soul-kaizen/web-osint/releases/tag/1.0.0)
+## Now Available for Android
+[Web Check for Android](https://github.com/soul-kaizen/web-osint/releases/tag/1.0.0)
+
 
 #### Contents
 
