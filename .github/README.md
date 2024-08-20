@@ -708,6 +708,10 @@ This check takes a screenshot of webpage that the requested URL / IP resolves to
 ###### Use Cases
 This may be useful to see what a given website looks like, free of the constraints of your browser, IP, or location.
 
+</details>
+
+</details>
+
 ---
 
 ## Usage
@@ -815,10 +819,3 @@ You'll need [Node.js](https://nodejs.org/en) (V 18.16.1 or later) installed, plu
 Some checks also require `chromium`, `traceroute` and `dns` to be installed within your environment. These jobs will just be skipped if those packages aren't present.
 
 
----
-
-
-
-</details>
-
-</details>
